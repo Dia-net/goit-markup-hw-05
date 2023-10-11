@@ -767,7 +767,6 @@ align-items: center;
   border-radius: 2px;
   border: 1px solid var(--NAVY-BLUE-modal, rgba(46, 47, 66, 0.40));
   margin-right: 8px;
-  display: flex;
   align-items: center;
   justify-content: center;
   transition:
