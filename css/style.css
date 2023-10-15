@@ -781,3 +781,6 @@ align-items: center;
  border: none;
 fill: #F4F4FD;
 }
+.modal-check:focus + .check-text> .icon-checkbox {
+  border-color: #404BBF;
+}
